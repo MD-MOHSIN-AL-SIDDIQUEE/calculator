@@ -1,0 +1,29 @@
+.calculator{
+    height: 360px;
+    width:280px;
+    background-color: rgba(128, 128, 128, 0.418);
+    margin: 50px auto;
+    padding: 10px;
+    border: 1px solid gray;
+}
+.main-bar{
+    margin-bottom: 20px;
+    text-align: right;
+    
+}
+.btn{
+    width: 60px;
+    cursor: pointer;
+    font-size: 20px;
+   
+}
+.line{
+    margin-bottom: 10px;
+}
+.first input{
+    width: 123px;
+}
+#display{
+    font-size: 23px;
+    font-weight: bold;
+}
